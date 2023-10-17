@@ -1,0 +1,7 @@
+nama = input("Nama                                          :")
+nim = input("Nim                                           :")
+paralel = input("Kelas Paralel                                 :")
+ttl = input("Tempat/Tanggal Lahir                          :")
+alamat = input("Alamat                                        :")
+hobi = input("Hobby                                         :")
+hp = input("No. Hp                                        :")
